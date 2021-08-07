@@ -1,3 +1,21 @@
+# ⚛️ Board Game with ReactJS
+
+<a href="https://react-boardgame-mhmtmutlu.netlify.app/">Live Preview</a>
+
+# 🧰 Toolbox
+
+<ul style="list-style-type:disc">
+   <li><a href="https://reactjs.org/docs/context.html">React Context API</a></li>
+   <li><a href="https://sass-lang.com/guide">Scss</a></li>
+   <li><a href="https://usehooks.com/">Custom Hooks</a></li>
+</ul>
+
+# 🎞 Screenshot
+
+![Proje Resmi](public/assets/screenshots/screenshot1.png)
+![Proje Resmi](public/assets/screenshots/screenshot2.png)
+
+
 ## HAFTA 4 - ÖDEV
 
 # React mix example
